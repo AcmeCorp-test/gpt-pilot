@@ -7,7 +7,7 @@ RUN apt-get update && \
     chmod +x /usr/bin/ttyd && \
     apt-get remove -y wget && \
     apt-get autoremove -y && \
-    rm -rf /var/lib/apt/lists/*
+    rm -rf /var/lib/apt/lists/* 
 
 ENV NVM_DIR /root/.nvm
 
