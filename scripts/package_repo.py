@@ -13,7 +13,7 @@ INCLUDE = [
     "README.md",
     "requirements.txt",
     "setup.py"
-]
+] 
 
 def find_repo_root() -> str:
     """
