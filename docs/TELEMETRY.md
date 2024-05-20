@@ -6,6 +6,9 @@ At GPT Pilot, we are dedicated to improving your experience and the overall qual
 
 The telemetry data we collect includes:
 
+
+
+
 - **Total Runtime**: The total time GPT Pilot was active and running.
 - **Command Runs**: How many commands were executed during a session.
 - **Development Steps**: The number of development steps that were performed.
